@@ -6,4 +6,4 @@
 * Density
 * Accaluration due to the gravity
 ## Issues !
-There may be mistakes in the lab reportes.
+There may be mistakes in the lab reports.
